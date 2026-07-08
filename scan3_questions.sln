@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37328.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scan3_questions", "scan3_questions\scan3_questions.csproj", "{078B992C-9C44-42C2-A616-326E918E36BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078B992C-9C44-42C2-A616-326E918E36BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078B992C-9C44-42C2-A616-326E918E36BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078B992C-9C44-42C2-A616-326E918E36BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078B992C-9C44-42C2-A616-326E918E36BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAACA5E5-2797-4A0F-B577-5FEFE082D8AB}
+	EndGlobalSection
+EndGlobal
